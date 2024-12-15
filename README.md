@@ -1,4 +1,4 @@
-# IoT-Project
+# Telemetry Data Analysis
 
 # Details :-
 The data (iot_telemetry_data.csv) was generated from 3 identical, custom-built sensor arrays, each connected to a Raspberry Pi device. These IoT devices were placed in different physical locations with varied environmental conditions.
